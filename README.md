@@ -5,6 +5,8 @@ Study project from Rocketseat UI Clone class - 17/06/2020
 ## Preview:
 https://cocky-wing-4c96ee.netlify.app/
 
+![alt text](https://github.com/guipatriota/clone-discord/blob/Correcao1/React%20App%20-%20Google%20Chrome%2018_06_2020%2002_52_26.png)
+
 ## React + Typescript
 
 ___________________________________________________________________________________________________________________
