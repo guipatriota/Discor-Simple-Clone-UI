@@ -1,16 +1,3 @@
-Study project from Rocketseat UI Clone class - 17/06/2020
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d9f5d5b0-7361-46e1-a531-a20804b02997/deploy-status)](https://app.netlify.com/sites/cocky-wing-4c96ee/deploys)
-
-## Preview:
-https://cocky-wing-4c96ee.netlify.app/
-
-![alt text](https://github.com/guipatriota/clone-discord/blob/Correcao1/React%20App%20-%20Google%20Chrome%2018_06_2020%2002_52_26.png)
-
-## React + Typescript
-
-___________________________________________________________________________________________________________________
-
 <h1 align="center">
 UI Clone - Discord
 </h1>
@@ -28,6 +15,20 @@ UI Clone - Discord
 </p>
 
 <hr>
+
+Study project from Rocketseat UI Clone class - 17/06/2020
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9f5d5b0-7361-46e1-a531-a20804b02997/deploy-status)](https://app.netlify.com/sites/cocky-wing-4c96ee/deploys)
+
+## Preview:
+
+![alt text](https://github.com/guipatriota/clone-discord/blob/Correcao1/React%20App%20-%20Google%20Chrome%2018_06_2020%2002_52_26.png)
+
+## React + Typescript
+
+___________________________________________________________________________________________________________________
+
+
 
 ## Participants
 
