@@ -34,6 +34,7 @@ export default createGlobalStyle `
     --notification: #f84a4b;
     --discord: #6e86d6;
     --mention-detail: #f9a839;
+    --mention-message: #413f3f;
 
     --link: #5d80d6;
 
