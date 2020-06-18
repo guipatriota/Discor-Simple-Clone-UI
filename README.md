@@ -1,3 +1,8 @@
+Study project from Rocketseat UI Clone class - 17/06/2020
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9f5d5b0-7361-46e1-a531-a20804b02997/deploy-status)](https://app.netlify.com/sites/cocky-wing-4c96ee/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
